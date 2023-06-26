@@ -22,7 +22,7 @@ function verificar(){
         if (idade >= 0 && idade < 12){
             img.src = 'menino.png'
         } else if (idade >= 12 && idade <25){
-            img.src = 'homemjovem.png'
+            img.src = 'h.png'
         } else if (idade >= 25 && idade < 65){
             img.src = 'homemadulto.png'
         } else{
